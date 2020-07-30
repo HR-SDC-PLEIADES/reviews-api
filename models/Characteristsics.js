@@ -1,0 +1,15 @@
+module.exports = {
+  summary: 'string',
+  date: 'string',
+  review_id: 'number',
+  recommend: 'number',
+  reviewer_email: 'string',
+  body: 'string',
+  reviewer_name: 'string',
+  response: 'string',
+  product_id: 'number',
+  reported: 'number',
+  id: 'number',
+  helpfulness: 'number',
+  rating: 'number',
+};
